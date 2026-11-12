@@ -14,3 +14,5 @@ It happened to me in a WordPress website a few days ago. That website wouldn't l
 Pictures will appear downloaded automatically in the Visual Studio Code Folder in case you're using VSC, you can also modify that you save them in Desktop.
 
 Kisses to everyone.
+
+ ![Alt text](images/furmado.jpg)
